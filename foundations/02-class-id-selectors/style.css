@@ -1,0 +1,22 @@
+.NO2{
+color: blue;
+font-size: 36px;
+font-weight: bold;
+}
+.NO4{
+color: black;
+background-color: lightgreen;
+font-size: 24px;
+font-weight: bold;
+}
+.odd{
+background-color: lightcoral;
+font-size: 24px;
+font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+.oddadjust-font-size{
+background-color: lightcoral;    
+font-weight: bold;
+font-size: 36px;
+}
